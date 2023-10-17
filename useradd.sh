@@ -1,6 +1,6 @@
 #!/bin/bash
 
-usernames=("ryan")
+usernames=("user")
 
 for username in "${usernames[@]}"; do
     home_dir="/home/$username"
